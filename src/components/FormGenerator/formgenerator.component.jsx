@@ -7,6 +7,7 @@ const FormGenerator = ({ forms }) => {
 	return (
 		<>
 		<form className="form">
+		<h1>Police Brutality Report Form</h1>
 			{forms.map((form, i) => (
 				<FormField key ={ i}form={form} />
 			))}
