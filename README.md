@@ -1,3 +1,7 @@
+# MyLawLegal Internship Program Test
+
+An app to generate a form from an array of objects.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
