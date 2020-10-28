@@ -1,0 +1,7 @@
+.form-input-label {
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  font-weight: 600;
+}
